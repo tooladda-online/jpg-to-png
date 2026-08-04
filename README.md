@@ -2,14 +2,14 @@
 
 # 🖼️ JPG to PNG Converter
 
-### Use JPG to PNG Converter free on ToolAdda — quick, accurate, and browser-based.
+### Convert JPG or JPEG photos to lossless PNG — with batch processing, transparent background, rotate/flip/resize, and real DPI metadata. No upload, no signup, 100% private in your browser.
 
 [![Visit JPG to PNG Converter](https://img.shields.io/badge/Visit%20JPG%20to%20PNG%20Converter-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/jpg-to-png.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/jpg-to-png.html)
 [![Category](https://img.shields.io/badge/Image%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Use Jpg to Png | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
+**Convert JPG or JPEG images to PNG online free. Batch conversion, drag &amp; drop, camera capture, clipboard paste, transparent background, rotate/flip/resize, and DPI control — 100% in your browser, no upload, no watermark.**
 
 [🚀 **Open JPG to PNG Converter Now →**](https://tooladda.online/jpg-to-png.html)
 
@@ -91,11 +91,20 @@ Visit tooladda.online — search for JPG to PNG Converter or use the link in thi
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>jpg to png converter</code>&nbsp;
-  <code>free jpg to png converter</code>&nbsp;
-  <code>online jpg to png converter</code>&nbsp;
-  <code>jpg to png converter tooladda</code>&nbsp;
   <code>jpg to png</code>&nbsp;
+  <code>jpeg to png</code>&nbsp;
+  <code>jpg png converter</code>&nbsp;
+  <code>convert jpg to png</code>&nbsp;
+  <code>jpg to png online</code>&nbsp;
+  <code>image converter</code>&nbsp;
+  <code>convert jpeg to png</code>&nbsp;
+  <code>png converter</code>&nbsp;
+  <code>photo converter</code>&nbsp;
+  <code>convert jpg to png online free</code>&nbsp;
+  <code>best jpg to png converter</code>&nbsp;
+  <code>convert jpeg image to png</code>&nbsp;
+  <code>jpg to transparent png</code>&nbsp;
+  <code>convert image without losing quality</code>&nbsp;
 </p>
 
 ---
@@ -112,4 +121,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: JPG to PNG Converter, jpg to png converter, free jpg to png converter, online jpg to png converter, jpg to png converter tooladda, jpg to png, tooladda, free online tool -->
+<!-- SEO: JPG to PNG Converter, jpg to png, jpeg to png, jpg png converter, convert jpg to png, jpg to png online, image converter, convert jpeg to png, png converter, photo converter, convert jpg to png online free, best jpg to png converter, convert jpeg image to png, jpg to transparent png, convert image without losing quality, tooladda, free online tool -->
